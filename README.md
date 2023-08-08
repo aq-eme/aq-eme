@@ -8,7 +8,7 @@ Stack:
 
 Люблю путешествовать, фотографировать и читать книги.
 
-[резюме на HH.ru](https://hh.ru/resume/492a9aa7ff0c3b0d810039ed1f4279766a4f49?hhtmFrom=resume_list)
+[резюме на hh.ru](https://hh.ru/resume/492a9aa7ff0c3b0d810039ed1f4279766a4f49?hhtmFrom=resume_list)
 
 [профиль на Хабр.Карьера](https://career.habr.com/aq_eme)
 

@@ -1,16 +1,18 @@
-### Hi there 👋
+# 👋 Привет, меня зовут Антон!
 
-<!--
-**aq-eme/aq-eme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я выпускник курса "Разработчик С++" Яндекс.Практикума.
 
-Here are some ideas to get you started:
+Стек:
+`C++17`, `Git`, `CMake`, `STL`, `Clion`, `MS Visual Studio`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Люблю путешествовать, фотографировать и читать книги.
+
+[резюме на HH.ru](https://hh.ru/resume/492a9aa7ff0c3b0d810039ed1f4279766a4f49?hhtmFrom=resume_list)
+
+[профиль на Хабр Карьера](https://career.habr.com/aq_eme)
+
+
+
+**Контакты для связи:**
+- Telegram: [aq_eme](https://t.me/aq_eme)
+- E-mail: aq.eme@yandex.ru

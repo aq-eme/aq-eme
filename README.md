@@ -4,7 +4,7 @@
 
 Stack:
 
-`C++17`, `Git`, `CMake`, `STL`, `Clion`, `MS Visual Studio`
+`C++17` `Git` `CMake` `STL` `Clion` `MS Visual Studio`
 
 Люблю путешествовать, фотографировать и читать книги.
 

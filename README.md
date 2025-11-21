@@ -17,5 +17,4 @@ Stack:
 - Telegram: [aq_eme](https://t.me/aq_eme)
 - E-mail: aq.eme@yandex.ru
 
-[[![<aq_eme>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<USERNAME>&theme=<THEME>)](https://github.com/JeremyTsaii/leetcode-stats)](https://leetcode-stats.vercel.app/api?username=aq_eme&theme=Dark)
 [![aq_eme's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aq_eme&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)

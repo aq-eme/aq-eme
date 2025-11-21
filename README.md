@@ -1,4 +1,6 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=435&lines=%3E_Hello+!) Я Разработчик С++
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FFFFFF&width=435&lines=%3E_Hello+!)
+
+Я Разработчик С++
 
 Stack:
 

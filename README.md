@@ -18,4 +18,4 @@ Stack:
 - Telegram: [aq_eme](https://t.me/aq_eme)
 - E-mail: aq.eme@yandex.ru
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/aq_eme?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Anon.E?ext=activity)

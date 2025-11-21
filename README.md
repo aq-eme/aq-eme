@@ -18,3 +18,4 @@ Stack:
 - E-mail: aq.eme@yandex.ru
 
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=aq_eme&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+https://leetcode-stats.vercel.app/api?username=aq_eme&theme=Dark
